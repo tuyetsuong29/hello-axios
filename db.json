@@ -1,0 +1,28 @@
+{
+  "todos": [
+    {
+      "id": 0,
+      "name": "Go to the gym"
+    },
+    {
+      "id": 1,
+      "name": "Walk the dog"
+    },
+    {
+      "id": 2,
+      "name": "Get some pizza"
+    },
+    {
+      "name": "read bok",
+      "id": 3
+    },
+    {
+      "name": "",
+      "id": 4
+    },
+    {
+      "name": "go sleeping",
+      "id": 5
+    }
+  ]
+}
